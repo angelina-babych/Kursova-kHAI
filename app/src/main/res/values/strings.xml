@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Контакти студентів</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="registration_no">Номер залікової</string>
+    <string name="email">Email</string>
+    <string name="phone">Тел.</string>
+    <string name="cross_image_content_description">Delete student from SQLite database</string>
+    <string name="empty_student_list_message">Список студентів пустий!</string>
+    <string name="student_name">Ім`я студента</string>
+    <string name="update">Оновити</string>
+    <string name="cancel_button">Відміна</string>
+    <string name="create_button">Створити</string>
+    <string name="all_delete">All Delete</string>
+    <string name="edit_button_description">Edit Single student information</string>
+</resources>

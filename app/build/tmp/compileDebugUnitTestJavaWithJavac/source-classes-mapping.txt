@@ -1,0 +1,2 @@
+com/babich/sqlite_project/ExampleUnitTest.java
+ com.babich.sqlite_project.ExampleUnitTest

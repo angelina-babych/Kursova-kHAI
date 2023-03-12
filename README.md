@@ -21,7 +21,7 @@
 * [BtowserStack App Live](https://app-live.browserstack.com/) - для тестування на реальних пристроях
 * [Highlight Code](https://highlight.hohli.com/) - для підсвітки синтаксису в коді
 * [Реферативний менеджер](https://4ref.ontu.edu.ua/) - для оформлення посилань на використані джерела
-* [матеріали](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/)  та [шаблони](https://github.com/hasancse91/Android-SQLite-Tutorial) від Хасана Абдулли - як відправна точка розробки
+* [пости](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/)  та [шаблони](https://github.com/hasancse91/Android-SQLite-Tutorial) від Хасана Абдулли - як відправна точка розробки
 * [Gigyu](https://gifyu.com/) - для хостингу GIF-зображень
 * [SnagIt](https://www.techsmith.com/screen-capture.html) - для створення та редагування знімків екрану
 

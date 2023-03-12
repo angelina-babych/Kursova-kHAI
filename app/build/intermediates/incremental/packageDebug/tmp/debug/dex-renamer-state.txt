@@ -1,0 +1,4 @@
+#Sat Mar 11 19:09:28 EET 2023
+base.0=R\:\\portapps\\Apps\\Android-SQLite-Tutorial-master\\01.SQLite-Single-Table-CRUD\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
